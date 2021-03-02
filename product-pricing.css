@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.pricing-table {
+    display: flex;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li img {
+    width: auto;
+    height: 40vh;
+}
